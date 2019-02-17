@@ -1,0 +1,54 @@
+[
+  {
+    "q": "Identify where you would check the engine oil level and tell me how you would check that the engine has sufficient oil.",
+    "a": "Identify where to check level, i.e. dipstick or sight glass. Explain that level should be between max and min marks. For dipstick remove dipstick and wipe clean, return and remove again to check oil level against max/min marks. For sight glass, ensure glass is clean when checking."
+  },
+  {
+    "q": "Show me how you would check that the horn is working on this machine (off road only).",
+    "a": "Check is carried out by using control (turn on ignition if necessary)."
+  },
+  {
+    "q": "Identify where the brake fluid reservoir is and tell me how you would check that you have a safe level of hydraulic fluid.",
+    "a": "Identify reservoir, check level against high/low markings."
+  },
+  {
+    "q": "Tell me how you would check that the lights and reflectors are clean and working.",
+    "a": "Explanation only: Operate switch (turn on ignition if necessary), identify reflectors. Check visually for cleanliness and operation."
+  },
+  {
+    "q": "Show me how you would check that the brake lights are working.",
+    "a": "Operate brake, place hand over light or make use of reflections in windows, garage doors etc, or ask someone to help."
+  },
+  {
+    "q": "Tell me how you would check the condition of the chain on this machine.",
+    "a": "Check for chain wear, correct tension and rear wheel alignment. Tension should be adjusted as specified in the machine handbook. Drive chain should be lubricated to ensure that excessive wear does not take place."
+  },
+  {
+    "q": "Show me what checks you would make on the steering movement before using the machine.",
+    "a": "Handlebars should be free to move smoothly from full left lock to full right lock without any control cables being stretched, trapped or pinched and without any snagging between moving and fixed parts."
+  },
+  {
+    "q": "Tell me how you would check your tyres to ensure that they are correctly inflated, have sufficient tread depth and that their general condition is safe to use on the road.",
+    "a": "Correct tyre pressure settings can be found in the owner’s manual. Pressures should be checked using a reliable gauge. Tread depth must be at least 1mm deep, forming a continuous band at least 3/4 of the breadth of the tread and all the way around. There should be no lumps, bulges or tears."
+  },
+  {
+    "q": "Show me how you would check the operation of the front brake on this machine.",
+    "a": "Wheel the machine forward and apply the front brake."
+  },
+  {
+    "q": "Show me how you would check the operation of the brakes on this machine.",
+    "a": "Check for excessive travel on the brake lever and the brake pedal and for unusual play or sponginess."
+  },
+  {
+    "q": "Show me how you would check the operation of the engine cut out switch.",
+    "a": "Operate switch, without the engine being started."
+  },
+  {
+    "q": "Show me how you would switch on the rear fog light and explain when you would use it (if fitted).",
+    "a": "Operate switch (turn on ignition and dipped headlights if necessary). Check warning light is on. Explain use"
+  },
+  {
+    "q": "Show me how you switch your headlight from dipped to main beam.",
+    "a": "Operate switch (with ignition or engine on if necessary), check with main beam warning light."
+  }
+]
